@@ -1,2 +1,9 @@
 # Alien-invasion-pygame
-A Ship that Fires Bullets: A game called Alien Invasion!  using Pygame, a collection of fun, powerful Python modules that manage graphics, animation, and even sound.
+
+- A game called Alien Invasion! using Pygame.
+- Pygame: A collection of fun, powerful Python modules that manage graphics, animation, and even sound.
+
+## Getting Started
+
+1. run `[ pip install pygame ]`
+2. run `[ python alien-invasion.py ]`
